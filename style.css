@@ -23,6 +23,10 @@ h1{
 }
 
 .navbar li{
-    float: left;
+    list-style: none;
+    background-color: burlywood;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
 }
 
