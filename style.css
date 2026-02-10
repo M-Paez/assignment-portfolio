@@ -6,6 +6,11 @@ h3{
     text-align: center;
 }
 
+li{
+    margin-bottom: 10px;
+}
+
+
 .navbar ul{
     list-style: none;
     background-color: burlywood;
